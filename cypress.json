@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://127.0.0.1:8090/webjump1/assessment-backend-xp/",
+  "viewportHeight": 768,
+  "viewportWidth": 1280,
+  "retries": {
+    "runMode": 2,
+    "openMode": 0
+  }
+}
